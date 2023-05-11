@@ -1,6 +1,6 @@
 kind: Kustomization
 
-nmaeSuffix: -apac
+nameSuffix: -apac
 
 images:
   - name: mysql
